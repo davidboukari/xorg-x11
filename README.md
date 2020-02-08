@@ -34,6 +34,8 @@ systemctl get-default
 yum install pixman pixman-devel libXfont
 yum update libXfont
 
+*+Troubleshooting+*
+
 vncserver
 To resolvfont path error see here
 vncserver -geometry   -fp /etc/X11/fontpath.d
