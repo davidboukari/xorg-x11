@@ -38,5 +38,5 @@ yum update libXfont
 
 vncserver
 To resolvfont path error see here
-vncserver -geometry   -fp /etc/X11/fontpath.d
+vncserver -geometry 1900x1080 -fp /etc/X11/fontpath.d
 ```
